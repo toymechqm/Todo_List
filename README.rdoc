@@ -1,28 +1,22 @@
-== README
+== Todo List
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Copy of https://mackenziechild.me/12-in-12/6/
 
-Things you may want to cover:
+Modified in the following ways:
 
-* Ruby version
+* CSS navbar
 
-* System dependencies
+* Create notes section to todo lists
 
-* Configuration
+* create stand-alone notes
 
-* Database creation
+* Add Devise
 
-* Database initialization
+* config Emailers
 
-* How to run the test suite
+== Possible Future updates:
 
-* Services (job queues, cache servers, search engines, etc.)
+* incorporate Twilio
 
-* Deployment instructions
+* incorporate gravatars
 
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
